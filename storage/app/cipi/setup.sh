@@ -7,7 +7,7 @@ BUILD=202104281
 PASS=???
 DBPASS=???
 SERVERID=???
-REPO=andreapollastri/cipi
+REPO=xuandung38/cipi
 
 
 ####################################################   CLI TOOLS   ###
